@@ -1,0 +1,5 @@
+{
+  "name": "X Visibility Diagnostics",
+  "description": "A local-first, secure diagnostics tool for X (Twitter) account health, shadowban detection, and growth strategy using AI-powered analysis.",
+  "requestFramePermissions": []
+}
